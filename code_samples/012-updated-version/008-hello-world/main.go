@@ -10,7 +10,7 @@ func main() {
 	fmt.Println("something more")
 
 	for i := 0; i < 100; i++ {
-		if i%2 == 0 {
+		if i%2 == 1 {
 			fmt.Println(i)
 		}
 	}
