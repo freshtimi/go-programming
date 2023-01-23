@@ -28,7 +28,8 @@ func main() {
 	fmt.Printf("%T\n", z)
 	fmt.Println(a)
 	fmt.Printf("%T\n", a)
+	z := 43
 	// z = 43
-	// fmt.Println(z)
+	fmt.Println(z)
 	// fmt.Printf("%T\n", z)
 }
